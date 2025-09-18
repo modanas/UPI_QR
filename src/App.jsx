@@ -122,10 +122,10 @@ const App = () => {
 
 						{/* Purple corners */}
 						<div className="absolute inset-0 pointer-events-none">
-							<div className="absolute top-12 left-16 w-12 h-12 border-t-4 border-l-4 border-purple-500 rounded-tl-lg"></div>
-							<div className="absolute top-12 right-16 w-12 h-12 border-t-4 border-r-4 border-purple-500 rounded-tr-lg"></div>
-							<div className="absolute bottom-12 left-16 w-12 h-12 border-b-4 border-l-4 border-purple-500 rounded-bl-lg"></div>
-							<div className="absolute bottom-12 right-16 w-12 h-12 border-b-4 border-r-4 border-purple-500 rounded-br-lg"></div>
+							<div className="absolute top-18 left-16 w-12 h-12 border-t-4 border-l-4 border-purple-500 rounded-tl-lg"></div>
+							<div className="absolute top-18 right-16 w-12 h-12 border-t-4 border-r-4 border-purple-500 rounded-tr-lg"></div>
+							<div className="absolute bottom-18 left-16 w-12 h-12 border-b-4 border-l-4 border-purple-500 rounded-bl-lg"></div>
+							<div className="absolute bottom-18 right-16 w-12 h-12 border-b-4 border-r-4 border-purple-500 rounded-br-lg"></div>
 						</div>
 
 						{/* Scanned Result */}
